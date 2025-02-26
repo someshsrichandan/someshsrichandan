@@ -98,5 +98,40 @@ const blackHoleDeveloper = {
     browser: "Chrome (Quantum Tunnel Extension)"
   },
   eventHorizonStack: ["React", "Node", "K8s", "AWS"],
-  specialties: ["Warp Speed Development", "Spacetime Debugging", "Quantum CI/CD"]
+  specialties: ["Warp Speed Development", "Spacetime Debugging", "Quantum CI/CD"],
+  hobbies: ["Wormhole Exploration", "Time Travel Debugging", "Alien Code Reviews"]
 };
+```
+<div align="center"> <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100" alt="Rocket"> <p>🚀 Successfully debugged a black hole's event horizon</p> <p>🛸 Built a warp drive using only JavaScript</p> <p>🌌 Deployed a quantum app in a parallel universe</p> </div>
+
+<div align="center"> <details> <summary><b>🌌 Click to Reveal Fun Facts 🌌</b></summary> <br/> <ul> <li>Once debugged a black hole's event horizon in under 5 minutes.</li> <li>Built a warp drive using only JavaScript and a cup of coffee.</li> <li>Deployed a quantum app in a parallel universe.</li> <li>Can code faster than the speed of light.</li> </ul> </details> </div>
+
+<div align="center"> <img src="https://media.giphy.com/media/3o7TKsQ8gQp9l1O2tW/giphy.gif" width="100" alt="Star"> <p>⭐ Contributed to the Milky Way's open-source galaxy</p> <p>🌠 Fixed a wormhole's routing issue</p> <p>🚀 Optimized a black hole's gravitational pull</p> </div>
+
+<div align="center"> <p>📫 Reach me through a wormhole:</p> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Email-00FF00?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://www.linkedin.com/in/yourusername"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://twitter.com/yourusername"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"> </a> </div>
+
+<div align="center"> <blockquote> <p>"In the vast expanse of the universe, the only limit is your imagination."</p> <footer>- Somesh Srichanadan Sahoo</footer> </blockquote> </div>
+
+<div align="center"> <img src="https://media.giphy.com/media/3o7TKsQ8gQp9l1O2tW/giphy.gif" width="100" alt="Star"> <p>🚀 Keep exploring the cosmos! 🚀</p> </div>
+
+<script>
+  let stars = 0;
+  let asteroids = 0;
+  let spiders = 0;
+
+  function collectStar() {
+    stars++;
+    document.getElementById("stars").innerText = stars;
+    if (stars >= 10) alert("You escaped the black hole! 🎉");
+  }
+
+  function avoidAsteroid() {
+    asteroids++;
+    document.getElementById("asteroids").innerText = asteroids;
+  }
+
+  function defeatSpider() {
+    spiders++;
+    document.getElementById("spiders").innerText = spiders;
+  }
+</script>
