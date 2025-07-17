@@ -363,7 +363,7 @@ resilience:
 </div>
 
 ## 〔 PROFESSIONAL TIMELINE 〕
-
+<!--
 ### 【 CAREER PROGRESSION 】
 
 <div align="center">
@@ -405,24 +405,24 @@ resilience:
     </tr>
   </table>
 </div>
-<!--
+-->
 ## 〔 COMMUNICATION CHANNELS 〕
 
-<!--<div align="center">
-  <a href="mailto:your.email@example.com">
+<div align="center">
+  <a href="mailto:someshsrichandan@gmail.com">
     <img src="https://img.shields.io/badge/SECURE-MESSAGE-00FFFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" />
   </a>
   <a href="https://linkedin.com/in/someshsrichandan">
     <img src="https://img.shields.io/badge/PROFESSIONAL-NETWORK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" />
   </a>
-  <a href="https://twitter.com/someshsrichandan">
+  <a href="https://x.com/me__somesh">
     <img src="https://img.shields.io/badge/STATUS-UPDATES-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=black" />
   </a>
   <a href="https://github.com/someshsrichandan">
     <img src="https://img.shields.io/badge/CODE-REPOSITORY-FF00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=black" />
   </a>
 </div>
--->
+
 <br>
 
 <div align="center">
