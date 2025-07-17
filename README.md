@@ -75,9 +75,9 @@ I engineer digital ecosystems at the intersection of code and innovation. My exp
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 </div>
-
+<!--
 ## 〔 PROJECT DEPLOYMENTS 〕
-
+<!--
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
@@ -160,11 +160,12 @@ I engineer digital ecosystems at the intersection of code and innovation. My exp
     </tr>
   </table>
 </div>
-
+-->
+<!--
 <div align="center">
   <p><i>⚠️ Note: Project images are placeholders. Replace with your actual project visuals.</i></p>
 </div>
-
+-->
 ## 〔 PERFORMANCE METRICS 〕
 
 <div align="center">
