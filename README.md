@@ -361,11 +361,11 @@ resilience:
 <div align="center">
   <p>This architecture blueprint represents my approach to building scalable, cloud-native web applications with a focus on performance, security, and maintainability.</p>
 </div>
-
+<!--
 ## 〔 PROFESSIONAL TIMELINE 〕
 <!--
 ### 【 CAREER PROGRESSION 】
-
+<!--
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
